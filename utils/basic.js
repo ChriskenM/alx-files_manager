@@ -9,4 +9,3 @@ class BasicUtils {
 }
 
 module.exports = BasicUtils;
-
